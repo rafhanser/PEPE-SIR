@@ -15,7 +15,7 @@ RAFHAN SER
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
- <a href="https://github.com/rafhanser"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/rafhanser"><img title="Author" src="https://img.shields.io/badge/Author-RAFHAN-SER-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-RAFHAN-SER-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
 <a href="https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-rafhanser-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
@@ -130,7 +130,7 @@ My Whatsapp Group👇
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-Pepe Sir or we are not responsible for your account, 
+RAFHAN-SER Sir or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -168,6 +168,6 @@ you can contact us
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1)
 
 # Thanks To
-* [`Pepe`](https://github.com/rafhanser)
+* [`RAFHAN-SER`](https://github.com/rafhanser)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Xeon`](https://github.com/DGXeon)
